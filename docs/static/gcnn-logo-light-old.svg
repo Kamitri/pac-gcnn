@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 370" width="100%" height="100%">
+  <defs>
+    <clipPath id="clipRed">
+      <polygon points="0,-160 69.28,-120 69.28,-40 0,0 -69.28,-40 -69.28,-120"/>
+    </clipPath>
+    <clipPath id="clipGreen">
+      <polygon points="-69.28,-40 0,0 0,80 -69.28,120 -138.56,80 -138.56,0"/>
+    </clipPath>
+    <clipPath id="clipBlue">
+      <polygon points="69.28,-40 138.56,0 138.56,80 69.28,120 0,80 0,0"/>
+    </clipPath>
+  </defs>
+  <g transform="translate(250, 168)">
+    <polygon points="0,-160 69.28,-120 69.28,-40 0,0 -69.28,-40 -69.28,-120"
+             fill="#EF4444" fill-opacity="0.12"/>
+    <polygon points="0,-160 69.28,-120 69.28,-40 0,0 -69.28,-40 -69.28,-120"
+             fill="none" stroke="#DC2626" stroke-width="20" stroke-linejoin="round"
+             clip-path="url(#clipRed)"/>
+    <polygon points="-69.28,-40 0,0 0,80 -69.28,120 -138.56,80 -138.56,0"
+             fill="#10B981" fill-opacity="0.12"/>
+    <polygon points="-69.28,-40 0,0 0,80 -69.28,120 -138.56,80 -138.56,0"
+             fill="none" stroke="#059669" stroke-width="20" stroke-linejoin="round"
+             clip-path="url(#clipGreen)"/>
+    <polygon points="69.28,-40 138.56,0 138.56,80 69.28,120 0,80 0,0"
+             fill="#3B82F6" fill-opacity="0.12"/>
+    <polygon points="69.28,-40 138.56,0 138.56,80 69.28,120 0,80 0,0"
+             fill="none" stroke="#2563EB" stroke-width="20" stroke-linejoin="round"
+             clip-path="url(#clipBlue)"/>
+  </g>
+  <text x="250" y="335"
+        text-anchor="middle"
+        font-family="system-ui, -apple-system, 'Inter', 'Segoe UI', Roboto, sans-serif"
+        font-weight="900"
+        font-size="46"
+        letter-spacing="2"
+        fill="#0F172A">PAC G-CNN</text>
+</svg>

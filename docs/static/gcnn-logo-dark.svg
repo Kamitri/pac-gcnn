@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 475" role="img" aria-labelledby="title">
+  <title id="title">PAC G-CNN</title>
+  <g fill="none" stroke="#F3F5F8" stroke-width="11" stroke-linecap="round" stroke-linejoin="round">
+    <path transform="translate(160 30)" d="M0 77.942 L45 0 H135 L180 77.942 H0 L45 155.884"/>
+    <path transform="translate(380 30)" d="M45 155.884 L0 77.942 L45 0 H135 L180 77.942 L135 155.884 M0 77.942 H180"/>
+    <path transform="translate(600 30)" d="M135 0 H45 L0 77.942 L45 155.884 H135"/>
+    <path transform="translate(30 290)" d="M135 0 H45 L0 77.942 L45 155.884 H135 L180 77.942 H100"/>
+    <path transform="translate(250 290)" d="M135 0 H45 L0 77.942 L45 155.884 H135"/>
+    <path transform="translate(425 272.679)" d="M50 173.205 L0 86.603 L50 0 L150 173.205 L200 86.603 L150 0"/>
+    <path transform="translate(665 272.679)" d="M50 173.205 L0 86.603 L50 0 L150 173.205 L200 86.603 L150 0"/>
+  </g>
+</svg>

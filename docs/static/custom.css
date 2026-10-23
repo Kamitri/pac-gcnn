@@ -1,0 +1,13 @@
+dl.field-list > dt {
+    padding-left: 0.25rem;
+}
+
+dt code.sig-name,
+dt .sig-prename {
+    word-break: break-word;
+}
+
+table.docutils td,
+table.docutils th {
+    vertical-align: top;
+}
